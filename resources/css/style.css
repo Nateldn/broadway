@@ -1,0 +1,42 @@
+body {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-family: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+
+}
+
+#whiteheading {
+  background-image: url();
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+p {
+  font-size: 14px;
+}
+
+a {
+
+}
+
+
+footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+}
